@@ -42,6 +42,14 @@
 	font-style: italic;
 }
 
+html {
+	--mobile-br: 550px;
+	--tablet-breakpoint: 850px;
+
+	--font-primary: hsl(0, 0%, 17%);
+	--font-secondary: hsl(0, 0%, 59%);
+}
+
 *,
 *::before,
 *::after {
