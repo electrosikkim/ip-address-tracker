@@ -1,5 +1,9 @@
 # IP Address Tracker
 
+## Description
+
+This project is the solution to the [IP address tracker challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/ip-address-tracker-I8-0yYAH0), based on the [IP Geolocation API by IPify](https://geo.ipify.org/) and [LeafletJS](https://leafletjs.com/).
+
 ## Available Scripts
 
 ### `yarn start`
